@@ -1,0 +1,13 @@
+description "U++ Unified flow and Box layout system\377";
+
+uses
+	Core,
+	CtrlLib;
+
+file
+	FlowBoxLayout.h,
+	FlowBoxLayout.cpp;
+
+mainconfig
+	"" = "";
+
